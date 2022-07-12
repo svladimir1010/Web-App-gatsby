@@ -1,12 +1,13 @@
 import React from 'react'
+import '../styles/global.css'
 import Navbar from './Navbar'
 
-const Layout = ({children}) => {
+const Layout = ( { children } ) => {
     return (
-        <div className='layout'>
+        <div className="layout">
             <Navbar/>
             <div className="content">
-                {children}
+                { children }
             </div>
             <footer>
                 <p>Copyright 2022 Web App</p>
