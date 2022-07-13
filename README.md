@@ -1,6 +1,7 @@
-<h3>
-  Demo:  https://web-projects-gatsby.netlify.app/
-</h3>
+<h2>
+  Demo :   https://web-projects-gatsby.netlify.app/
+</h2>
+
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
